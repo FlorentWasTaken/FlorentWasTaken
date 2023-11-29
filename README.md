@@ -4,3 +4,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=FlorentWasTaken&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FlorentWasTaken&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorentWasTaken&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![wakatime](https://wakatime.com/badge/user/018ba55b-54fa-4639-a3f6-4906f9e1c5bc.svg)](https://wakatime.com/@018ba55b-54fa-4639-a3f6-4906f9e1c5bc)
