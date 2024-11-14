@@ -1,8 +1,66 @@
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=FlorentWasTaken&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorentWasTaken&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![wakatime](https://wakatime.com/badge/user/018ba55b-54fa-4639-a3f6-4906f9e1c5bc.svg)](https://wakatime.com/@018ba55b-54fa-4639-a3f6-4906f9e1c5bc)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Florent</h1></summary>
+  </ul>
+</div>
+
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">I'm just better at googling</h2></summary>
+  </ul>
+</div>
+
+
+<!--Intro start-->
+- 🔭 I’m currently working on **Java Spring, Docker, Typescript**
+
+- 🌱 I’m currently learning **to deploy large server application**.
+
+- ☁️ I've interest in software engineering and game developpement. So,I'm learning **Unreal Engine 5, Java**
+
+
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=florentwastaken&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=florentwastaken&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=florentwastaken&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/>
+  
+  </td>
+</tr>
+</table>
+
+</p>        
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Tech stack👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,cs,lua,docker,postgres,express,github,git,java,js,linux,markdown,mongodb,mysql,nodejs,py,react,ts,vscode" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+----------------------------------------------------------------------
+
+Last Edited on: 14/11/2024
