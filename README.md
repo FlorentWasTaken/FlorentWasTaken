@@ -11,23 +11,20 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">I'm just better at googling</h2></summary>
+    <summary><h2 style="display: inline-block">I'm just good at googling</h2></summary>
   </ul>
 </div>
 
 
-<!--Intro start-->
-- 🔭 I’m currently working on **Java Spring, Docker, Typescript**
+- 🔭 I’m currently working for **ILBC - SCP RP**.
 
-- 🌱 I’m currently learning **to deploy large server application**.
+- 🌱 I’m a developer studying **computer science**.
 
-- ☁️ I've interest in software engineering and game developpement. So,I'm learning **Unreal Engine 5, Java**
-
+- ❤️ **Source Engine** enjoyer.
 
 
-<!--- stats & Trophy (start) -->
+
 <p align="center">
-  <!--- stats (start) -->
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
@@ -49,13 +46,13 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tech stack👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Favorite techs👨🏻‍💻</h2></summary>
   </ul>
 </div>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,cs,lua,docker,postgres,express,github,git,java,js,linux,markdown,mongodb,mysql,nodejs,py,react,ts,vscode" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,lua,github,git,linux,vscode" />
   </a>
 </p>
 
@@ -63,4 +60,4 @@
 
 ----------------------------------------------------------------------
 
-Last Edited on: 14/11/2024
+Last Edited on: 11/12/2024
